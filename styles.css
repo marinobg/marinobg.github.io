@@ -1,18 +1,13 @@
 body {
-    background-color: white;
     text-align: center;
     height: 93vh;
     background-size: cover;
-    background-repeat: no-repeat;
   }
   h1 {
     color: black;
   }
-  p {
-    color: black;
-  }
   img{
-    width: 100%;
-    height: 100%;
+    width: 75%;
+    height: 75%;
     object-fit: scale-down;
   }
