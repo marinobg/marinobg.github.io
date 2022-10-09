@@ -1,13 +1,13 @@
 body {
   text-align: center;
   height: 93vh;
-  background-size: cover;
+  margin-top: 0%;
 }
 h1 {
   color: black;
 }
 img{
-  width: 75%;
-  height: 75%;
+  width: 100%;
+  height: 100%;
   object-fit: scale-down;
 }
